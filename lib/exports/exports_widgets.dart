@@ -11,8 +11,11 @@ export 'package:admin_dashboard/app/src/auth/providers/register_form_provider.da
 
 // Services
 export 'package:admin_dashboard/app/src/services/local_storage.dart';
+export 'package:admin_dashboard/app/src/services/navigation_service.dart';
+export 'package:admin_dashboard/app/src/services/notifications_service.dart';
 
 // Layouts Admin
+export 'package:admin_dashboard/app/src/admin/layouts/dashboard_layout.dart';
 
 // Layouts Auth
 export 'package:admin_dashboard/app/src/auth/layouts/auth_layout.dart';
